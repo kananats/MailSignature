@@ -1,0 +1,48 @@
+<table width="500" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td style="vertical-align: top; font-size: 12px; font-family: helvetica, arial;">
+<span style="font-size: 15px;">Kananat Suwanviwatana</span><br> Software Developer <br><br>
+<table cellspacing="0" cellpadding="0" border="0" width="100%" style="margin:0px 0">
+<tbody>
+<tr>
+<td width="50%" style="vertical-align: top; padding-right: 0px; font-stretch: normal; font-size: 12px; line-height: normal;">
+<table cellspacing="0" cellpadding="0" border="0" style="margin:0 0px 0px 0">
+<tbody>
+<tr>
+<td style="padding-right:0px"><img width="40" height="40" src="https://s1g.s3.amazonaws.com/22729bc9dcaa8b2cd54e556ae46c6b79.png" alt="email" style="border:none"></td>
+<td><span style="font-stretch: normal; font-size: 12px; line-height: normal;"><a href="mailto:kananat.s@gmail.com" style="color:#3388cc;text-decoration:none">kananat.s@gmail.com</a></span></td>
+</tr>
+</tbody>
+</table>
+<table cellspacing="0" cellpadding="0" border="0" style="margin:0 0px 0px 0">
+<tbody>
+<tr>
+<td style="padding-right:0px"><img width="40" height="40" src="https://s1g.s3.amazonaws.com/2c02a9f08e0d3ae6a7f14515c45d6635.png" alt="mobile" style="border:none"></td>
+<td><span style="font-stretch: normal; font-size: 12px; line-height: normal;">81 80 9289 7458</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td width="50%" style="vertical-align: top; padding-left: 0px; font-stretch: normal; font-size: 12px; line-height: normal;">Donuts Co., Ltd.<br> <a href="http://maps.apple.com/?q=Odakyu Southern Tower, 8F,2-2-1 Yoyogi, Shibuya,Tokyo,151-0053,Japan" style="color:#3388cc;text-decoration:none">Odakyu Southern Tower, 8F<br>2-2-1 Yoyogi, Shibuya<br>Tokyo<br>151-0053<br>Japan</a><br> </td>
+</tr>
+</tbody>
+</table>
+<table cellpadding="0" border="0">
+<tbody>
+<tr></tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table width="500" cellspacing="0" cellpadding="0" border="0" style="margin-top:0px">
+<tbody>
+<tr>
+<td style="color: rgb(170, 170, 170); font-size: 10px; font-family: helvetica, arial;">
+<p>Sent from my phone. Apologies for brevity and typos.</p>
+</td>
+</tr>
+</tbody>
+</table>
